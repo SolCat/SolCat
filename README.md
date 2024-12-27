@@ -82,5 +82,5 @@ me.say_hello()
 
 ## 📊 Github stats
   <div class="stats-container" style="display: flex; align-items: center; gap: 20px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolCat&layout=compact&theme=gruvbox&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolCat&layout=compact&theme=gruvbox&show_icons=true&langs_count=8" />
   </div>
