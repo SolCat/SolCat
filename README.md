@@ -32,14 +32,15 @@ me.say_hello()
 ```
   
   <ul>
-    <li>🎓 Master in Cognitive Science & Computer Science (INP Bordeaux) & Master in Natural Language Processing (Université de Nantes)</li>
-    <li>💼 Currently looking for job opportunities in Seoul, South Korea</li>
+    <li>🎓 Bachelor in Computer Science and Cognitive Science (Bordeaux INP, France)</li>
+    <li>🎓 Master in Natural Language Processing (Université de Nantes, France)</li>
+    <li>💼 Currently looking for job opportunities in Seoul, in data analysis and/or project management</li>
     <li>✏️ I write articles about Korean culture on 
       <a href="https://www.obangsaek.fr/">my website</a> 
       and on 
       <a href="https://french.korea.net/NewsFocus/HonoraryReporters">Korea.net</a> in my free time.
     </li>
-    <li>📫 Contact me at <a href="mailto:solene.catella@gmail.com">solene.catella@email.com</a>if you'd like to connect or have a project in mind!</li>
+    <li>📫 Contact me at <a href="mailto:solene.catella@gmail.com">solene.catella@email.com</a> if you'd like to connect or have a project in mind!</li>
   </ul>
 
 ## 🛠️ Tech Stack and Tools
